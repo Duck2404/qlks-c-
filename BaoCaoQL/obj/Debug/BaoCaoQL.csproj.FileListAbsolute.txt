@@ -1,0 +1,269 @@
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe.config
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.pdb
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.AssemblyReference.cache
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Properties.Resources.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.GenerateResource.cache
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CoreCompileInputs.cache
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.exe
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.pdb
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.FormKhachTro.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.HeThong.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.Welcome.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmLoaiphong.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDichvu.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.DangNhap.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.xml
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDoanhthuDichvu.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CopyComplete
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\EnvDTE.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\stdole.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Report.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\RdlCompile.cache
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\RdlCompile.compiled
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatPhong.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmKhachHang.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmPhongg.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.TraPhong.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.ThongKe.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.BieudoThongKe.resources
+D:\Đồ án lập trình .Net\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatDichvu.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe.config
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.pdb
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\EnvDTE.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\stdole.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.MSXML.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.xml
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csprojAssemblyReference.cache
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.DangNhap.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.FormKhachTro.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.HeThong.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.BieudoThongKe.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatDichvu.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatPhong.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDichvu.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDoanhthuDichvu.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmKhachHang.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmLoaiphong.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmPhongg.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.ThongKe.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.Welcome.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Properties.Resources.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Report.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.GenerateResource.cache
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CoreCompileInputs.cache
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CopyComplete
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.exe
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.pdb
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmTraPhong.resources
+D:\download\BaoCaoQL (2)\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmCTDV.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.AssemblyReference.cache
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.DangNhap.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.FormKhachTro.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.HeThong.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.BieudoThongKe.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmCTDV.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatDichvu.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDatPhong.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDichvu.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmDoanhthuDichvu.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmKhachHang.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmLoaiphong.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmPhongg.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.ThongKe.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.frmTraPhong.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.minForm.Welcome.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Properties.Resources.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.Report.resources
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.GenerateResource.cache
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CoreCompileInputs.cache
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.exe
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.pdb
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe.config
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.exe
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\BaoCaoQL.pdb
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\EnvDTE.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\stdole.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\EPPlus.xml
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc24\Downloads\BaoCaoQL\BaoCaoQL\obj\Debug\BaoCaoQL.csproj.CopyComplete
